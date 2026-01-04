@@ -1,0 +1,5 @@
+package utils;
+
+public enum Calidad {
+	UNICA,CLASICA,GENUINA,RARA,INUSUAL,EMBRUJADA,COLECCIONISTA
+}

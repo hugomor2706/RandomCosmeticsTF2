@@ -1,0 +1,5 @@
+package utils;
+
+public enum Clase {
+	SCOUT,SOLDIER,PYRO,DEMOMAN,HEAVY,ENGINEER,MEDIC,SNIPER,SPY
+}
